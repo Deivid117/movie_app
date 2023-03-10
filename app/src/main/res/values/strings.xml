@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="movies">Movies</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="popular_series">Popular Series</string>
+    <string name="series">Series</string>
+    <string name="top_rated_series">Top Rated Series</string>
+    <string name="trending">Trending</string>
+    <string name="trendings">Tendencias</string>
+    <string name="upcoming_movies">Próximas películas</string>
+    <string name="_movies">Películas</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="no_elements">Sin elementos por mostrar</string>
+    <string name="_top_rated_movies">Películas mejor calificadas</string>
+    <string name="_top_rated_series">Series mejor calificadas</string>
+</resources>
